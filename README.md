@@ -39,6 +39,25 @@
 
 ---
 
+---
+
+## 📌 推荐项目展示 | Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/singleton-altman/awesome-ios-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singleton-altman&repo=media_saber_flutter_3&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/singleton-altman/swift-network-layer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singleton-altman&repo=docker_copilot_app_swift&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/nicklockwood/SwiftFormat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicklockwood&repo=SwiftFormat&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/flutter/news_toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=flutter&repo=news_toolkit&theme=tokyonight" />
+  </a>
+</p>
+
 ## 📟 Visitor Counter
 
 <p align="center">
