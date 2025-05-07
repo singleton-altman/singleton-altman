@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/6256632?s=400&u=0674a58f47ce2fcdd50debbd3ef6c6a0a4bcd2eb&v=4" width="120" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">
@@ -12,6 +12,15 @@
 </p>
 
 ---
+
+## 🛠 技术栈 | Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Objective–C-2E2E2E?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
+
 
 ## 📊 GitHub Stats
 
