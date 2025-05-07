@@ -48,7 +48,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=singleton-altman&repo=media_saber_go&theme=tokyonight" />
   </a>
   <a href="https://github.com/singleton-altman/swift-network-layer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singleton-altman&repo=docker_copilot_app&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singleton-altman&repo=docker_copilot_andriod_app&theme=tokyonight" />
   </a>
   <a href="https://github.com/nicklockwood/SwiftFormat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicklockwood&repo=SwiftFormat&theme=tokyonight" />
