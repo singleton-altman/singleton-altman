@@ -20,16 +20,6 @@
 
 ---
 
-## 👋 About Me
-
-<p align="center">
-  Passionate about creating elegant mobile solutions with Swift and iOS development. 
-  <br />
-  Love contributing to open source projects and sharing knowledge with the community.
-</p>
-
----
-
 ## 🛠 技术栈 | Tech Stack
 
 ### Languages & Frameworks
@@ -145,16 +135,17 @@
   <img src="https://img.shields.io/badge/Status-Public-28A745?style=flat-square" alt="Public Repository" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=singleton-altman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=singleton-altman&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
+
+## 👋 About Me
+
+<p align="center">
+  Passionate about creating elegant mobile solutions with Swift and iOS development. 
+  <br />
+  Love contributing to open source projects and sharing knowledge with the community.
+</p>
+
+---
