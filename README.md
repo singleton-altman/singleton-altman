@@ -52,19 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=singleton-altman&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singleton-altman&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=singleton-altman&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🌱 Activity Heatmap
 
 <div align="center">
@@ -116,24 +103,46 @@
 
 ---
 
-## 📌 推荐项目展示 | Pinned Repositories
+## 🎬 Media Saber 项目组 | Media Saber Projects
 
 <div align="center">
+  <h3>📺 媒体管理与处理工具</h3>
+  <p>基于 Flutter 开发的跨平台媒体管理应用，支持多种媒体格式处理</p>
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <h3>💻 代码仓库</h3>
+  <a href="https://github.com/singleton-altman/media_saber_flutter_3">
+    <img src="https://img.shields.io/badge/media__saber__flutter__3-Code%20Repository-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="media_saber_flutter_3" />
+  </a>
+  <br />
+  <sub><b>Media Saber Flutter 3</b></sub>
+  <br />
+  <a href="https://github.com/singleton-altman/media_saber_flutter_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singleton-altman&repo=media_saber_flutter_3&theme=tokyonight" alt="media_saber_flutter_3" />
+  </a>
+</td>
+<td width="50%" align="center">
+  <h3>🚀 发布仓库</h3>
+  <a href="https://github.com/singleton-altman/media_saber_go">
+    <img src="https://img.shields.io/badge/media__saber__go-Release%20Repository-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="media_saber_go" />
+  </a>
+  <br />
+  <sub><b>Media Saber Go</b></sub>
+  <br />
   <a href="https://github.com/singleton-altman/media_saber_go">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=singleton-altman&repo=media_saber_go&theme=tokyonight" alt="media_saber_go" />
   </a>
-  <a href="https://github.com/singleton-altman/docker_copilot_andriod_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singleton-altman&repo=docker_copilot_andriod_app&theme=tokyonight" alt="docker_copilot_andriod_app" />
-  </a>
-</div>
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <a href="https://github.com/nicklockwood/SwiftFormat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicklockwood&repo=SwiftFormat&theme=tokyonight" alt="SwiftFormat" />
-  </a>
-  <a href="https://github.com/flutter/news_toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=flutter&repo=news_toolkit&theme=tokyonight" alt="news_toolkit" />
-  </a>
+  <img src="https://img.shields.io/badge/Framework-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Language-Go-00ADD8?logo=go&logoColor=white&style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/Status-Public-28A745?style=flat-square" alt="Public Repository" />
 </div>
 
 ---
